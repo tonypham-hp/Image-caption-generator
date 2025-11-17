@@ -13,9 +13,7 @@ A complete end-to-end pipeline including feature extraction, caption preprocessi
 - Generate captions for any new image  
 
 # Notebook  
-🔗 **Kaggle Notebook:**  
-https://www.kaggle.com/code/tonypham04/image-caption-generator/notebook
-
+🔗 **Kaggle Notebook:**  https://www.kaggle.com/code/tonypham04/image-caption-generator/notebook
 # Model Architecture
 - **Encoder:** VGG16 (without top) → Dense → Dropout  
 - **Decoder:** Embedding → LSTM → Dense Softmax  
