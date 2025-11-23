@@ -26,6 +26,6 @@ A complete end-to-end pipeline including feature extraction, caption preprocessi
 - Model & tokenizer saving (`.h5`, `.pkl`)  
 
 # Evaluation
-- BLEU-1: Measures unigram precision  
-- BLEU-2: Measures bigram precision  
-- Display of actual vs predicted captions  
+- BLEU-1: Measures unigram precision.
+- BLEU-2: Measures bigram precision.
+- Display of actual vs predicted captions.
